@@ -1,0 +1,6 @@
+{
+  "name": "XavyBot",
+  "description": "WhatsApp Bot echo en base a Nodejs",
+  "repository": "https://github.com/Ochoa21/XavyBot3",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "Ochoa"]
+}
